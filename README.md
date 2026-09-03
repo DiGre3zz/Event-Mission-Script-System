@@ -33,6 +33,6 @@ This is a prototype scoped to demonstrate architectural thinking. Some choices w
 - **NPC state transitions** are handled by a hardcoded two-stage `NPCInteractionSwapper`. In a production tool, this would be generalized into a proper state machine driven by mission progress.
 - **Inventory display** is currently console-log only. A real tool would need a UI layer.
 - **Chest contents delivery** uses simple spawn points and drops items on the ground. A version with a selection UI is planned.
-- **Custom editor tooling** — dropdowns and inspectors customization for even a designer UX.
+- **Custom editor tooling** — dropdowns and inspectors customization for a better designer UX.
 
 Unity 6000.3.9f1 - MIT License
