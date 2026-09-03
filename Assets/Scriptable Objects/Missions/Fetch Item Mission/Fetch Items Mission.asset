@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 475a35332ee1bb84da0a7a55502f6bde, type: 3}
+  m_Name: Fetch Items Mission
+  m_EditorClassIdentifier: Assembly-CSharp::Mission
+  Steps:
+  - {fileID: 11400000, guid: 74371d8fc0fff4ddca828e55e5f3bc51, type: 2}
+  - {fileID: 11400000, guid: e16307b0127f34e84b665372723b89b0, type: 2}
+  - {fileID: 11400000, guid: 9e2eb769def184e42a299c6092e51a94, type: 2}
+  - {fileID: 11400000, guid: e2439b8879c1b41ceb9cab97463f8494, type: 2}
+  - {fileID: 11400000, guid: 631b165b60cdc4d4988af164d05273ea, type: 2}
+  - {fileID: 11400000, guid: f67e2ef20414d4250aebcbc7d3a0d17c, type: 2}
+  - {fileID: 11400000, guid: dae346b5617574f258c24d457b277c65, type: 2}
